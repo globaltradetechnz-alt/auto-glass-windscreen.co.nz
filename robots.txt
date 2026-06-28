@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.auto-glass-windscreen.co.nz/sitemap.xml

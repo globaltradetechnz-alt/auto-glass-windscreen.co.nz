@@ -1,0 +1,6 @@
+# Netlify redirects
+/contact  /contact-autoglass.html  301
+/quote    /online-windscreen-quote.htm  301
+/insurance /windscreen-insurance.htm  301
+/replacement /windscreen_replacement.htm 301
+/repair   /windscreen_repair.htm  301
